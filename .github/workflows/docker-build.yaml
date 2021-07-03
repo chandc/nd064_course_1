@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: {{ chandc }}/python-helloworld:latest
+          tags: {{ cloud_native }}/python-helloworld:latest
